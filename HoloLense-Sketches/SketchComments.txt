@@ -1,0 +1,28 @@
+Hololens main interface - We decided to use very few icons to maximize user's field of view in the main interface of the Hololens. 
+The arrow icon when air taped will display the menu items; the settings icon will lead to the settings interface; 
+and the search icon will enable the smart search.
+
+Hololens Show Floor Plans - The floor plans will be shown according to the user's position in the museum; 
+there is an arrow to move to the next floor plan.
+
+Hololens Show Floor Plans (showFootTraffic) - A tick box is available for the user to choose if they wish to see 
+the real time foot traffic of the Museum.
+
+Hololens Search Function interface - The smart search function will allow the user to search for where items are in the museum; 
+such as toilet, collections and cafes.
+
+Hololens Search Function (Toilet) - User can choose to use the keyboard or voice to search for toilet.
+
+Hololens Search Function (ShowDirection) - After user has entered a valid search item, a green arrow will appear to guide the way.
+
+Hololens show menu items - Collections item will give the user all the available collections of the museum; and direction will be 
+given to the user if am item is chosen. Floor plan item will provide the user with all the floor plans; 
+user can view the real time foot traffic of the museum. Activity will include multiple quizzes about the museum collections; 
+a leader board will show the top players.
+
+Hololens Collection Information item - A small green information tag will appear in collection items as you move closer to the item. 
+User will be able to listen to the audio description of the item; watch related videos; and view the 3D model of the item.
+
+Hololens Collection Information item (menu) - A menu will appear if you air tap the information tag on the collection item. 
+User can choose to listen to the audio description of the item; watch related videos about the item; 
+and view the 3D model of the item.
